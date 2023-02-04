@@ -1,7 +1,7 @@
 var rule = {
     title:'jabletv',
     host:'https://jable.tv',
-    url:'https://jable.tv/new-release',
+    url:'https://jable.tv/new-release/',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
