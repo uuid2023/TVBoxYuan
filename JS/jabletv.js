@@ -12,7 +12,7 @@ var rule = {
     limit:5,
     play_parse:true,
     lazy:'',
-    一级:'.pb-3.pb-e-lg-40&row.gutter-20 div;.title&&Text;img&&src;.title&&Text;a&&href',
+    一级:'.img-box cover-md div;.title&&Text;img&&src;.title&&Text;a&&href',
     二级:'*',
 
 }
